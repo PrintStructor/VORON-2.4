@@ -1,5 +1,8 @@
 ![alt text](https://github.com/PrintStructor/VORON-2.4/blob/main/FIRE%207%20VORON%20mount/FIRE%207%20VORON%20mount.png?raw=true)
 With that mount you can use an old or cheap Amazon Fire HD 7 tablet as a touch device for your VORON.
+It fits on the swing arms of the mount of the VORON 2.2
+You can find them here:
+https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/LCD_Module
 
 If you want to use Klipperscreen there are some additional steps to do, which are:
 
