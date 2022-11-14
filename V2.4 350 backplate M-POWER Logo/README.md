@@ -4,3 +4,5 @@ HowTo:
 1. add the file 1_hexagon to your build plate.
 2. join everthing else by right clicking 1_hexagon on the right menu and choose -> add part -> load | from the menu.
 3. set your files by right clikcing on them to your created extruders. I've named the files like the colors I used for a better overview.
+
+![alt text](https://github.com/PrintStructor/VORON-2.4/blob/main/M Power NEW.png?raw=true)
