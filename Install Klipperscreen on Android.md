@@ -233,7 +233,14 @@ GCC0X80814350GH5  device
 
 So, you are done.
 
-If it still doesn't work, unplug/replug the device.
+If it still doesn't work, 
+
+running 
+```
+sudo udevadm trigger
+```
+, followed by re-plugging the device worked for me (didn't require a reboot) on Linux Mint
+
 If it still doesn't work, restart your OS.
 
 Hope that helps you guys out!
